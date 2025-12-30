@@ -1,10 +1,8 @@
 # 👋 Welcome to Peponk
 
-🚀 **Peponk** is a modern, scalable digital platform focused on building reliable, developer-friendly solutions with clean architecture and well-structured documentation.
+![](https://github.com/peponk/peponk/blob/main/08E05190-0DB1-4FA6-990C-B537E2FB7D87.jpg?raw=true)
 
-🌐 **Website:** https://www.peponk.io  
-📘 **Documentation:** https://peponk.gitbook.io/docs  
-💻 **GitHub:** https://github.com/peponk  
+🚀 **Peponk** is a modern, scalable digital platform focused on building reliable, developer-friendly solutions with clean architecture and well-structured documentation.
 
 ---
 
@@ -64,25 +62,24 @@ You’ll find:
 
 ---
 
-## 🤝 Contributing
+## 📬 Contact & Official Links
 
-Contributions are always welcome!  
-You can contribute by:
+🌍 **Website:** https://www.peponk.io  
+📘 **Documentation:** https://peponk.gitbook.io/docs  
+💻 **GitHub:** https://github.com/peponk  
 
-- Reporting issues  
-- Suggesting improvements  
-- Submitting pull requests  
-- Improving documentation  
+💬 **Telegram:** https://t.me/peponkofficial  
+𝕏 **X (Twitter):** https://x.com/peponkwtf  
+🎵 **TikTok:** https://www.tiktok.com/@peponksol  
 
-Please follow clean code standards and proper commit messages.
+💳 **Contract Address (Solana):**  
+`Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump`
 
----
+👻 **Phantom Token Link:**  
+https://phantom.com/tokens/solana/Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump?referralId=fohpc3scna
 
-## 📬 Contact & Links
 
-🌍 Website: https://www.peponk.io  
-📘 Docs: https://peponk.gitbook.io/docs  
-💻 GitHub: https://github.com/peponk  
+
 
 ---
 
