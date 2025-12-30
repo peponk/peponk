@@ -2,7 +2,7 @@
 
 ![](https://github.com/peponk/peponk/blob/main/08E05190-0DB1-4FA6-990C-B537E2FB7D87.jpg?raw=true)
 
-🚀 **Peponk** is a modern, scalable digital platform focused on building reliable, developer-friendly solutions with clean architecture and well-structured documentation.
+🚀 **Peponk** is a community-driven, NFT-backed digital asset project that works on blockchain and decentralization, and blends meme culture with real utility. We focus on digital engagement, creative branding, and development of simple tools for holders. Peponk represents a growing ecosystem built around transparency, community participation, and long-term vision.
 
 ---
 
