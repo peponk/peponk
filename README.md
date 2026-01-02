@@ -69,7 +69,7 @@ You’ll find:
 💻 **GitHub:** https://github.com/peponk  
 
 💬 **Telegram:** https://t.me/peponkofficial  
-𝕏 **X (Twitter):** https://x.com/peponkwtf  
+𝕏 **Twitter:** https://x.com/peponkwtf  
 🎵 **TikTok:** https://www.tiktok.com/@peponksol  
 
 💳 **Contract Address (Solana):**  
