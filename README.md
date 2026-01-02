@@ -76,8 +76,7 @@ You’ll find:
 `Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump`
 
 👻 **Phantom Token Link:**  
-https://phantom.com/tokens/solana/Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump?referralId=fohpc3scna
-
+https://dexscreener.com/solana/gqqdgfkn7bcsubqzek9ombkqcv1brxvpmtls3sq9pump
 
 
 
