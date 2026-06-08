@@ -64,23 +64,45 @@ You’ll find:
 
 ## 📬 Contact & Official Links
 
-🌍 **Website:** https://www.peponk.io  
-📘 **Documentation:** https://peponk.gitbook.io/docs  
-💻 **GitHub:** https://github.com/peponk  
+Stay connected with the official PEPONK ecosystem through our verified platforms and community channels.
 
-💬 **Telegram:** https://t.me/peponkofficial  
-𝕏 **Twitter:** https://x.com/peponkwtf  
-🎵 **TikTok:** https://www.tiktok.com/@peponksol  
+### 🌍 Official Website
+🔗 https://www.peponk.io
 
-💳 **Contract Address (Solana):**  
-`Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump`
+### 📘 Documentation
+🔗 https://peponk.gitbook.io/docs
 
-👻 **Phantom Token Link:**  
-https://phantom.com/tokens/solana/Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump?referralId=fohpc3scna
+### 💻 GitHub
+🔗 https://github.com/peponk
 
-📊 **DEX Screener Link:**
-https://dexscreener.com/solana/gqqdgfkn7bcsubqzek9ombkqcv1brxvpmtls3sq9pump
+### 💬 Telegram Community
+🔗 https://t.me/peponkofficial
+
+### 𝕏 X (Twitter)
+🔗 https://x.com/peponkwtf
+
+### 🎵 TikTok
+🔗 https://www.tiktok.com/@peponksol
 
 ---
+
+## 💳 Contract Address (Solana)
+
+```text
+Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump
+
+---
+
+👻 Phantom Token
+🔗 https://phantom.com/tokens/solana/Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump?referralId=fohpc3scna
+
+📊 DEX Screener
+🔗 https://dexscreener.com/solana/gqqdgfkn7bcsubqzek9ombkqcv1brxvpmtls3sq9pump
+
+🛡️ Intellectual Property Rights
+🔗 https://tmsearch.uspto.gov/search/search-results/99855342
+
+📈 CoinMarketCap
+🔗 https://coinmarketcap.com/currencies/peponk
 
 ⭐ If you find Peponk useful, don’t forget to **star the repositories** and support the project!
