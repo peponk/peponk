@@ -66,23 +66,14 @@ You’ll find:
 
 Stay connected with the official PEPONK ecosystem through our verified platforms and community channels.
 
-### 🌍 Official Website
-🔗 https://www.peponk.io
-
-### 📘 Documentation
-🔗 https://peponk.gitbook.io/docs
-
-### 💻 GitHub
-🔗 https://github.com/peponk
-
-### 💬 Telegram Community
-🔗 https://t.me/peponkofficial
-
-### 𝕏 X (Twitter)
-🔗 https://x.com/peponkwtf
-
-### 🎵 TikTok
-🔗 https://www.tiktok.com/@peponksol
+| Platform | Link |
+|----------|------|
+| 🌍 Website | https://www.peponk.io |
+| 📘 Documentation | https://peponk.gitbook.io/docs |
+| 💻 GitHub | https://github.com/peponk |
+| 💬 Telegram | https://t.me/peponkofficial |
+| 𝕏 X (Twitter) | https://x.com/peponkwtf |
+| 🎵 TikTok | https://www.tiktok.com/@peponksol |
 
 ---
 
