@@ -101,8 +101,9 @@ Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump
 
 🔗 https://coinmarketcap.com/currencies/peponk
 
-## KYC
-https://github.com/cyberscope-io/kyc/blob/main/peponk/kyc.png
+## 🪪 KYC
+
+🔗 https://github.com/cyberscope-io/kyc/blob/main/peponk/kyc.png
 
 ---
 
