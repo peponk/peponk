@@ -80,18 +80,18 @@ Stay connected with the official PEPONK ecosystem through our verified platforms
 ## 💳 Contract Address (Solana)
 
 ```text
-Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump
+4W9nkDkmhVokuv84yeNkSMHQxh1Ta35GMkYMsACbpump
 ```
 
 ---
 
 ## 👻 Phantom Token
 
-🔗 https://phantom.com/tokens/solana/Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump?referralId=fohpc3scna
+🔗 https://phantom.com/tokens/solana/4W9nkDkmhVokuv84yeNkSMHQxh1Ta35GMkYMsACbpump?referralId=7lvyb2hcg6
 
 ## 📊 DEX Screener
 
-🔗 https://dexscreener.com/solana/gqqdgfkn7bcsubqzek9ombkqcv1brxvpmtls3sq9pump
+🔗 https://dexscreener.com/solana/9HX3MbttsJBDRSzvPCaMMjgeHeeXHeiNENeiM4qHobte
 
 ## 🛡️ Intellectual Property Rights
 
@@ -99,7 +99,7 @@ Gqqdgfkn7bcsuBQZEk9oMBkqCv1bRXvPmTLs3sQ9pump
 
 ## 📈 CoinMarketCap
 
-🔗 https://coinmarketcap.com/currencies/peponk
+🔗 https://www.coingecko.com/en/coins/peponk
 
 ## 🪪 KYC
 
