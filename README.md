@@ -97,7 +97,7 @@ Stay connected with the official PEPONK ecosystem through our verified platforms
 
 🔗 https://tmsearch.uspto.gov/search/search-results/99855342
 
-## 📈 CoinMarketCap
+## 📈 CoinGecko
 
 🔗 https://www.coingecko.com/en/coins/peponk
 
